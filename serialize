@@ -1,0 +1,9 @@
+https://docs.djangoproject.com/en/1.8/topics/serialization/
+
+
+https://godjango.com/41-start-your-api-django-rest-framework-part-1/
+
+curl -X POST http://localhost:8000/comm/tasks/ -d "title=hello world&description=a whole new world"
+
+from .models import Game
+
